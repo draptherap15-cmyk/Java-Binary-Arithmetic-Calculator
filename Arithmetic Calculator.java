@@ -8,7 +8,7 @@ public class ArithmeticCalculator {
         String again;
 
         do {
-            System.out.println("\n=== Multi-Number Arithmetic Calculator ===");
+            System.out.println("\n=== Complex Arithmetic Calculator ===");
 
             int numberCount = readNumberCount(scanner);
             int firstBase = chooseBase(scanner, "number 1");
